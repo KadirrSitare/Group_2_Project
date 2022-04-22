@@ -7,5 +7,7 @@ public class Practice01 {
         System.out.println("Hello Group 2");
 
         //change 1
+
+        //change2
     }
 }
